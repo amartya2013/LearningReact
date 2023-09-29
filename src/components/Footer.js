@@ -3,7 +3,9 @@ const Footer = () =>
 {   
     console.log("I want to test footer");
     return (
-    <footer>This is my footer</footer>
+    <footer><span>&#169
+        
+        </span></footer>
     )
 }
 
